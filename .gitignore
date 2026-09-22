@@ -1,0 +1,5 @@
+v_2/
+__pycache__/
+*.pyc
+*.pth
+visual_test_output.png
