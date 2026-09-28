@@ -1,0 +1,6 @@
+# ColorSAR Requirements (PyTorch with CUDA 12.6 is installed via extra-index-url)
+numpy
+scikit-image
+opencv-python
+matplotlib
+pillow
